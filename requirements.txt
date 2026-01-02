@@ -1,0 +1,8 @@
+# Testing dependencies
+hypothesis>=6.82.0
+
+# Development dependencies
+pytest>=7.4.0
+
+# GUI dependencies (Tkinter is included with Python)
+# No additional GUI dependencies required
