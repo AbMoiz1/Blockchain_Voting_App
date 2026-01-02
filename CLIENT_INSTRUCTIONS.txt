@@ -1,6 +1,13 @@
 BLOCKCHAIN VOTING SYSTEM - CLIENT INSTRUCTIONS
 ===============================================
 
+DOWNLOAD FROM GIT:
+-----------------
+1. Go to the GitHub repository link provided
+2. Click "Code" → "Download ZIP" 
+3. Extract the ZIP file to your computer
+4. Navigate to the extracted folder
+
 QUICK START (EASIEST):
 ---------------------
 1. Double-click "start_gui.bat" 
@@ -33,7 +40,7 @@ BASIC WORKFLOW:
 TESTING THE SYSTEM:
 ------------------
 - Double-click "run_tests.bat" to verify system integrity
-- All 80+ tests should pass, confirming the system is working correctly
+- All 79+ tests should pass, confirming the system is working correctly
 
 FEATURES:
 --------
@@ -66,3 +73,4 @@ TECHNICAL NOTES:
 - Suitable for elections, surveys, and secure voting
 - Runs completely offline after initial setup
 - Cross-platform compatible (Windows, macOS, Linux)
+- Open source under MIT License
